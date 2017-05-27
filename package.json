@@ -1,0 +1,23 @@
+{
+  "name": "phoenix_trello",
+  "version": "0.0.0",
+  "description": "Trello clone",
+  "main": " ",
+  "repository": "https://github.com/bionikspoon/phoenix_trello",
+  "author": "Manu Phatak <manu@thinkcerca.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
